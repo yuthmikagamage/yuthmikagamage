@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Learning **Node.js, Firebase, MongoDB, and Flutter**  
-- 💻 Interested in **backend development, cloud computing, and real-time applications**  
+- 🌱 Learning **Node.js, Firebase, MongoDB, Express.js and Flutter**  
+- 💻 Interested in **full-stack development, cloud computing, and real-time applications**  
 
 ---
 
@@ -21,5 +21,4 @@
 ## 📊 GitHub Insights  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yuthmikagamage&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuthmikagamage&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuthmikagamage&layout=compact&theme=radical)  
