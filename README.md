@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hellow there! 👋 I'm Yuthmika Vidana Gamage
 
-<!--
-**yuthmikagamage/yuthmikagamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering undergraduate at University of Westminster
 
-Here are some ideas to get you started:
+## 📍 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/yuthmika-gamage-187bb4296)
+- Website: [Your Personal Website](www.yuthmika.info)
+- Email: vanujyuthmika@gmail.com
+
+
+**Profile Views:** 
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuthmikagamage&color=blue)
