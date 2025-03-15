@@ -1,11 +1,11 @@
 # Hellow there! 👋 I'm Yuthmika Vidana Gamage
 
-Software engineering undergraduate at University of Westminster
+Software engineering undergraduate at University of Westminster 
 
-## 📍 Contact Me
+## 📩 Contact Me
 
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/yuthmika-gamage-187bb4296)
-- Website: [Your Personal Website](www.yuthmika.info)
+- LinkedIn : [yuthmika-gamage](www.linkedin.com/in/yuthmika-gamage-187bb4296)
+- Portfolio Web : [yuthmka.info](www.yuthmika.info)
 - Email: vanujyuthmika@gmail.com
 
 
