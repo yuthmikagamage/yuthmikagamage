@@ -1,7 +1,10 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Yuthmika Vidana Gamage</h1>
 <h3 align="center">Software Engineering Undergraduate | University of Westminster</h3>
-<p align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=yuthmikagamage&color=blue)   </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuthmikagamage&color=blue" alt="Profile Views">
+</p>
+
 
 
 ---
